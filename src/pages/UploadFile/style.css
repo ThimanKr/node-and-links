@@ -1,0 +1,31 @@
+.fileUploadCard {
+    width: 100%;
+    box-shadow: 0px 1px 10px #77777740;
+    margin-bottom: 20px !important;
+    
+  }
+  
+  .uploadOkGapFile {
+    color: #00c50d;
+    margin: auto 0 !important;
+  }
+  
+  .uploadFailGapFile {
+    color: red;
+    margin: auto 0 !important;
+  }
+  
+  .uploadedStatusGapFile svg {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  .uploadedStatusGapFile span {
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  .totalTextForGap {
+    font-size: 14px !important;
+    margin-left: 10px;
+  }
+  

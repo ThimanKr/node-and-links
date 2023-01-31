@@ -1,0 +1,24 @@
+.footer{
+  background-color: #fff;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  padding: 0 75px;
+}
+
+.brandLogo{
+  width: 110px;
+  margin-right: 20px;
+  position: relative;
+  top: -7px;
+}
+
+.copyrights{
+  display: flex !important;
+  align-items: center;
+  text-align: right;
+}
+
+.copyrights span{
+  width: 100%;
+}

@@ -1,0 +1,20 @@
+.cardButton{
+    width: 90%;
+    margin: 0 auto 20px;
+    height: 140px !important;
+    border: none !important;
+    border-radius: 10px !important;
+    background-color: #2c5e70;
+}
+
+.btnIcon{
+    display: block;
+    margin: 20px auto;
+}  
+
+.cardButton p {
+    white-space: normal;
+    line-height: 16px;
+    font-weight: 500;
+    font-size: 14px;
+}
